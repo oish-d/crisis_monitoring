@@ -1,0 +1,72 @@
+[
+  {
+    "location": "Illinois, United States",
+    "count": 114,
+    "latitude": 40.0796606,
+    "longitude": -89.4337288,
+    "risk_level": "High-Risk"
+  },
+  {
+    "location": "Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",
+    "count": 53,
+    "latitude": -4.41564885,
+    "longitude": 119.61664226567646,
+    "risk_level": "High-Risk"
+  },
+  {
+    "location": "Canada",
+    "count": 10,
+    "latitude": 61.0666922,
+    "longitude": -107.991707,
+    "risk_level": "High-Risk"
+  },
+  {
+    "location": "United States",
+    "count": 4,
+    "latitude": 39.7837304,
+    "longitude": -100.445882,
+    "risk_level": "High-Risk"
+  },
+  {
+    "location": "Europe",
+    "count": 4,
+    "latitude": 51.0,
+    "longitude": 10.0,
+    "risk_level": "High-Risk"
+  },
+  {
+    "location": "France",
+    "count": 4,
+    "latitude": 46.603354,
+    "longitude": 1.8883335,
+    "risk_level": "High-Risk"
+  },
+  {
+    "location": "\u65e5\u672c",
+    "count": 3,
+    "latitude": 36.5748441,
+    "longitude": 139.2394179,
+    "risk_level": "High-Risk"
+  },
+  {
+    "location": "Australia",
+    "count": 3,
+    "latitude": -24.7761086,
+    "longitude": 134.755,
+    "risk_level": "High-Risk"
+  },
+  {
+    "location": "\u00c9ire / Ireland",
+    "count": 2,
+    "latitude": 52.865196,
+    "longitude": -7.9794599,
+    "risk_level": "High-Risk"
+  },
+  {
+    "location": "Realy, Via Leonardo da Vinci, Fiumicino, Roma Capitale, Lazio, 00054, Italia",
+    "count": 2,
+    "latitude": 41.7978252,
+    "longitude": 12.2473553,
+    "risk_level": "High-Risk"
+  }
+]

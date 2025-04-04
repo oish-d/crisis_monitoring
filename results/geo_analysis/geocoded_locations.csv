@@ -1,0 +1,287 @@
+post_id,sentiment,risk_level,extracted_location,full_location,latitude,longitude
+1jnrtn0,Negative,High-Risk,greys,"Greys, Station Approach, Bexley, London Borough of Bexley, London, Greater London, England, DA5 1AQ, United Kingdom",51.4411936,0.14852094999999998
+1j0q728,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1jnvut3,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1jrbv1y,Positive,High-Risk,canada,Canada,61.0666922,-107.991707
+1jo65zs,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1it9vd9,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1jns51l,Negative,High-Risk,canada,Canada,61.0666922,-107.991707
+1bp78ia,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1bp78ia,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+13sum97,Negative,High-Risk,quebec,"Québec, Canada",52.4760892,-71.8258668
+13sum97,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+13sum97,Negative,High-Risk,vancouver island,"Vancouver Island, British Columbia, Canada",49.592949450000006,-125.70255696124094
+13sum97,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1j1ve0j,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1gtd8up,Negative,High-Risk,california,"California, United States",36.7014631,-118.755997
+1iwo35o,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1f6cf3z,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1f6cf3z,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1f6cf3z,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1ao2jok,Positive,High-Risk,dr states,"States Drive, Parkside, Philadelphia, Philadelphia County, Pennsylvania, 19131, United States",39.98428122448969,-75.21757022491747
+1bpgvni,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1bpgvni,Positive,High-Risk,mountains beach,"Beach Mountains, Culberson County, Texas, United States",31.1359647,-104.8585503
+1bpgvni,Positive,High-Risk,florida,"Florida, United States",27.7567667,-81.4639835
+1bpgvni,Positive,High-Risk,utah,"Utah, United States",39.4225192,-111.714358
+1bpgvni,Positive,High-Risk,colorado,"Colorado, United States",38.7251776,-105.607716
+1jdnpaw,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1jdnpaw,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+poqbpn,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1box2x1,Negative,High-Risk,lad ireland,"Lad Lane, South Dock Ward 1986, Dublin, County Dublin, Leinster, D02 FN88, Éire / Ireland",53.33484343659066,-6.249669553133193
+kl4ous,Negative,High-Risk,europe,Europe,51.0,10.0
+kl4ous,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+17l69l9,Negative,High-Risk,villian,"Villian, La Chapelle-Vendômoise, Blois, Loir-et-Cher, Centre-Val de Loire, France métropolitaine, 41330, France",47.6640369,1.2382266
+13pvovb,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+13pvovb,Negative,High-Risk,america,United States,39.7837304,-100.445882
+126oy5y,Negative,High-Risk,netherlands,Nederland,52.2434979,5.6343227
+1b7cpzg,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+vbq9d5,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+orovjo,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+12tupz1,Positive,High-Risk,iowa,"Iowa, United States",41.9216734,-93.3122705
+1jj0eqs,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1isr51q,Negative,High-Risk,m32,"広電廿日市, 廿日市停車場線, 駅前, 廿日市市, 広島県, 738-0003, 日本",34.3567286,132.3362624
+1isr51q,Negative,High-Risk,oklahoma,"Oklahoma, United States",34.9550817,-97.2684063
+1enqgyb,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1jlk9ub,Negative,High-Risk,peru,Perú,-6.8699697,-75.0458515
+1hm87gp,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+g8eq07,Positive,High-Risk,france,France,46.603354,1.8883335
+g8eq07,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+g8eq07,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+g8eq07,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+g8eq07,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+g8eq07,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+g8eq07,Positive,High-Risk,ireland,Éire / Ireland,52.865196,-7.9794599
+g8eq07,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+g8eq07,Positive,High-Risk,ireland,Éire / Ireland,52.865196,-7.9794599
+1jdu9bt,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+n2k2of,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1jpmij2,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1itrgut,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1hn957v,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1jl1b3s,Negative,High-Risk,knowing,"Knowing, จอมเทียน 7, จอมเทียน, เมืองพัทยา, นาจอมเทียน, จังหวัดชลบุรี, 20260, ประเทศไทย",12.8973681,100.87208
+1j0wujf,Negative,High-Risk,japan,日本,36.5748441,139.2394179
+1j0wujf,Negative,High-Risk,japan,日本,36.5748441,139.2394179
+1iaoovm,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1jmht26,Negative,High-Risk,lost,"Lost, Bellabeg, Aberdeenshire, Alba / Scotland, AB36 8UQ, United Kingdom",57.2053788,-3.0793008
+1jr3ba4,Positive,High-Risk,imagine,"Imagine, Stary Widzew, Łódź-Widzew, Łódź, województwo łódzkie, Polska",51.7605749,19.486936634011112
+e8gjky,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1hz7b3y,Negative,High-Risk,chromebook,"Chromebook/Textbook Office, Kingsbury Street, Granada Hills, Granada Hills South Neighborhood Council District, Los Angeles, Los Angeles County, California, 91325, United States",34.26219665,-118.52592354762281
+1hz7b3y,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1c4ekm2,Negative,High-Risk,canada,Canada,61.0666922,-107.991707
+15agf97,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1hoskm0,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+fxo2wm,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+fxo2wm,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1di3f7s,Negative,High-Risk,scariest,"Buenas noches (Los bosques embrujados más aterradores del mundo. Fantome: fantasma) (Mombe'ugua'u), Distrito de Escobar, Paraguarí, Región Oriental, Paraguay / Paraguái",-25.6097257,-57.06929505055248
+1irymt7,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1di3f7s,Negative,High-Risk,scariest,"Buenas noches (Los bosques embrujados más aterradores del mundo. Fantome: fantasma) (Mombe'ugua'u), Distrito de Escobar, Paraguarí, Región Oriental, Paraguay / Paraguái",-25.6097257,-57.06929505055248
+1irymt7,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1bbzf1e,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1dlnai3,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1i9hzlt,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1irymt7,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+173mkx8,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+14mposi,Negative,High-Risk,plain,"Plain, Sauk County, Wisconsin, United States",43.2788776,-90.0437354
+14mposi,Negative,High-Risk,truly,"Truly, Cascade County, Montana, United States",47.3557881,-111.4413577
+1jcjvc5,Negative,High-Risk,japan,日本,36.5748441,139.2394179
+1jcjvc5,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+141hfw0,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1c3bis5,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+zc2m3n,Negative,High-Risk,background,"Background Cottages, Nether Stowey, Somerset, England, United Kingdom",51.155805,-3.1563825263176577
+1j0szpa,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1ja1tzy,Negative,High-Risk,canada,Canada,61.0666922,-107.991707
+1ja1tzy,Negative,High-Risk,las vegas,"Las Vegas, Clark County, Nevada, United States",36.2533896,-115.2794366262601
+1is4k7u,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1d5t89q,Negative,High-Risk,hanging,"Hanging, Kollerschlag, Bezirk Rohrbach, Oberösterreich, 4154, Österreich",48.6048721,13.8195814
+fbq6n2,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+fbq6n2,Positive,High-Risk,youtube,"YouTube Theater, 1011, Stadium Drive, Hollywood Park, Inglewood, Los Angeles County, California, 90301, United States",33.9517558,-118.33678690719562
+1jne2zs,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1jne2zs,Positive,High-Risk,truth,"Truth, 34, Fulham Palace Road, Hammersmith, London Borough of Hammersmith and Fulham, London, Greater London, England, W6 9PH, United Kingdom",51.4908534,-0.22390478617004028
+1hvmvi0,Positive,High-Risk,philippines,Pilipinas,12.7503486,122.7312101
+1hijjcl,Positive,High-Risk,europe,Europe,51.0,10.0
+1hijjcl,Positive,High-Risk,cape town,"Cape Town, City of Cape Town, Western Cape, 8001, South Africa",-33.9288301,18.4172197
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+1ffo30n,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1d5t89q,Negative,High-Risk,hanging,"Hanging, Kollerschlag, Bezirk Rohrbach, Oberösterreich, 4154, Österreich",48.6048721,13.8195814
+1gupq65,Negative,High-Risk,bangkok,"กรุงเทพมหานคร, ประเทศไทย",13.7524938,100.4935089
+1gupq65,Negative,High-Risk,thailand,ประเทศไทย,14.8971921,100.83273
+1gupq65,Negative,High-Risk,london,"London, Greater London, England, United Kingdom",51.5074456,-0.1277653
+vvmv2d,Positive,High-Risk,withdrawal,"Kirtland Air Force Base & Cibola Withdrawal Area, Albuquerque, Bernalillo County, New Mexico, 87116, United States",35.0081534,-106.46810582171446
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+10jcfko,Positive,High-Risk,agoraphobia,"Agoraphobia, Allées Charles de Fitte, Patte d'Oie, Saint-Cyprien, Toulouse, Haute-Garonne, Occitanie, France métropolitaine, 31300, France",43.6000446,1.42973
+10jcfko,Positive,High-Risk,truth,"Truth, 34, Fulham Palace Road, Hammersmith, London Borough of Hammersmith and Fulham, London, Greater London, England, W6 9PH, United Kingdom",51.4908534,-0.22390478617004028
+10jcfko,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+10jcfko,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+7vn317,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+7vn317,Positive,High-Risk,understand,"Understand, Erlebnisort Hecke, Muna-Siedlung, Marktbergel, Burgbernheim (VGem), Landkreis Neustadt an der Aisch-Bad Windsheim, Bayern, 91613, Deutschland",49.4380793,10.373852
+7vn317,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+7vn317,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+7vn317,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+mcs4fd,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+fbq6n2,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+fbq6n2,Positive,High-Risk,youtube,"YouTube Theater, 1011, Stadium Drive, Hollywood Park, Inglewood, Los Angeles County, California, 90301, United States",33.9517558,-118.33678690719562
+1i40wbg,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1i40wbg,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+16thenk,Positive,High-Risk,dpdr,"Masjid DPDR Kantor DPRD Barru, Jalan Bau Massepe, Barru, Sulawesi Selatan, Sulawesi, 90712, Indonesia",-4.41564885,119.61664226567646
+7vn317,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+7vn317,Positive,High-Risk,understand,"Understand, Erlebnisort Hecke, Muna-Siedlung, Marktbergel, Burgbernheim (VGem), Landkreis Neustadt an der Aisch-Bad Windsheim, Bayern, 91613, Deutschland",49.4380793,10.373852
+7vn317,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+7vn317,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+7vn317,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1g7kjos,Negative,High-Risk,aches,"Chemin d'Aches, Nendaz, Conthey, Valais/Wallis, 1997, Schweiz/Suisse/Svizzera/Svizra",46.15086685748733,7.320186874716846
+1j773cr,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1jjjqp2,Negative,High-Risk,sudden,"Sudden, Castleton, Rochdale, Greater Manchester, England, OL11 3EY, United Kingdom",53.602224,-2.175001
+1jgb0sj,Positive,High-Risk,india,India,22.3511148,78.6677428
+1jgb0sj,Positive,High-Risk,hoping,"Hoping, Daimlerstraße, Harme-Süd, Bakum, Landkreis Vechta, Niedersachsen, 49456, Deutschland",52.720077450000005,8.166857904830547
+1hrsboy,Negative,High-Risk,rewire,"Rewire, 25, Hauptstraße, Altstadt, Heidelberg, Baden-Württemberg, 69117, Deutschland",49.4108082,8.6955485
+1ify7s4,Negative,High-Risk,overwhelming,"The Overwhelming World of Desire, Bismarckstraße, Iserlohn, Märkischer Kreis, Nordrhein-Westfalen, 58636, Deutschland",51.3858795,7.7160222
+1c4ee6m,Negative,High-Risk,canada,Canada,61.0666922,-107.991707
+do42xt,Negative,High-Risk,vietnam,Việt Nam,15.9266657,107.9650855
+do42xt,Negative,High-Risk,electro,"Electro, Şahkapısı Sokağı, Kuledibi, Bereketzade, Bereketzade Mahallesi, Beyoğlu, İstanbul, Marmara Bölgesi, 34421, Türkiye",41.025984,28.9747812
+1iaqqq1,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1iaqqq1,Negative,High-Risk,shrooms,"Shrooms Lane (NF-510), Pend Oreille County, Washington, United States",48.261901654964994,-117.3930753349462
+1j6qtmw,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1j6qtmw,Positive,High-Risk,edit,"Edit, 188, Petts Wood Road, Poverest, Petts Wood, Orpington, London, Greater London, England, BR5 1LG, United Kingdom",51.3904681,0.0752238
+1i8duk3,Negative,High-Risk,hck,"London Borough of Hackney, Greater London, England, United Kingdom",51.54888185,-0.047669054262764424
+1djzp0r,Negative,High-Risk,discos ireland,"Rev Discos, St Mary's Street, Caher, The Municipal District of Cahir — Cashel, County Tipperary, Munster, E21 P236, Éire / Ireland",52.374231,-7.9241562
+1cg1exh,Negative,High-Risk,realy,"Realy, Via Leonardo da Vinci, Fiumicino, Roma Capitale, Lazio, 00054, Italia",41.7978252,12.2473553
+1cg1exh,Negative,High-Risk,realy,"Realy, Via Leonardo da Vinci, Fiumicino, Roma Capitale, Lazio, 00054, Italia",41.7978252,12.2473553
+1jgm5l1,Negative,High-Risk,worked,"Partially Re-worked Slimes Dam, Matlosana Ward 1, Matlosana Local Municipality, Dr Kenneth Kaunda District Municipality, North West, South Africa",-26.8481136,26.491885738694315
+1hheiw2,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1h2luja,Negative,High-Risk,europe,Europe,51.0,10.0
+1h2luja,Negative,High-Risk,australia,Australia,-24.7761086,134.755
+1h2luja,Negative,High-Risk,australia,Australia,-24.7761086,134.755
+1h2luja,Negative,High-Risk,australia,Australia,-24.7761086,134.755
+1h2luja,Negative,High-Risk,cacao,"Cacao, Roura, Cayenne, Guyane, 97352, France",4.5717259,-52.4702995
+1izfcr4,Positive,High-Risk,husband,"Husband, Somerset Township, Somerset County, Pennsylvania, 15501, United States",40.0417436,-79.1016949
+1ifh84h,Negative,High-Risk,america,United States,39.7837304,-100.445882
+1iruos2,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1g2i7b4,Positive,High-Risk,canada,Canada,61.0666922,-107.991707
+1jjazh9,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1javs7x,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1fil3u4,Positive,High-Risk,comfort zone,"Comfort Zone, 5324, Dundas Street West, Islington, Etobicoke—Lakeshore, Etobicoke, Toronto, Golden Horseshoe, Ontario, M9B 1B4, Canada",43.6346897,-79.54203
+1fil3u4,Positive,High-Risk,aiden,"Aiden, Wittibreut, Landkreis Rottal-Inn, Bayern, 84384, Deutschland",48.318578,13.002963
+1j7occ7,Negative,High-Risk,abitur germany,"Abitur 2020, Silcherweg, Hemsbach, VVG der Stadt Hemsbach, Rhein-Neckar-Kreis, Baden-Württemberg, 69502, Deutschland",49.596447,8.6509103
+1g2hh31,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1gg9ue5,Positive,High-Risk,france,France,46.603354,1.8883335
+1gg9ue5,Positive,High-Risk,france,France,46.603354,1.8883335
+1gg9ue5,Positive,High-Risk,france,France,46.603354,1.8883335
+1ghto0g,Positive,High-Risk,maryland,"Maryland, United States",39.5162401,-76.9382069
+o4phb6,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1ic464z,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1ic464z,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1j5kxrq,Positive,High-Risk,florida,"Florida, United States",27.7567667,-81.4639835
+1j5kxrq,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1ixuvcn,Positive,High-Risk,italy,Italia,42.6384261,12.674297
+1ixuvcn,Positive,High-Risk,mannheim,"Mannheim, Baden-Württemberg, Deutschland",49.4892913,8.4673098
+1ixuvcn,Positive,High-Risk,back braunschweig,"Back Street Cocktail Bar, 13, Hagenmarkt, Mitte, Braunschweig, Niedersachsen, 38100, Deutschland",52.2674293,10.5232317
+1ixuvcn,Positive,High-Risk,atzen,"Atzenbach, Häg, Häg-Ehrsberg, Verwaltungsgemeinschaft Zell im Wiesental, Landkreis Lörrach, Baden-Württemberg, 79685, Deutschland",47.71056325,7.8729901033565834
+1ey4gnz,Negative,High-Risk,switzerland,Schweiz/Suisse/Svizzera/Svizra,46.7985624,8.2319736
+1ey4gnz,Negative,High-Risk,switzerland,Schweiz/Suisse/Svizzera/Svizra,46.7985624,8.2319736
+ieykmb,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1ifh84h,Negative,High-Risk,america,United States,39.7837304,-100.445882
+1jp0v2c,Positive,High-Risk,somatic,"Somatic Court, Sunstone, North Port, Sarasota County, Florida, United States",27.01921250947949,-82.32705078991368
+m7u3s6,Negative,High-Risk,stroked,"Stroked Ego, 131, Bank Street, Centretown, Somerset, Ottawa, Eastern Ontario, Ontario, K1P 5N7, Canada",45.4192857,-75.6994607
+egzrs8,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1jick4s,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1jick4s,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1is4axr,Negative,High-Risk,europe,Europe,51.0,10.0
+1j782rr,Positive,High-Risk,canada,Canada,61.0666922,-107.991707
+1gtlejk,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1ipg32c,Negative,High-Risk,executive,"Executive, Sorsogon, Bicol Region, 4700, Pilipinas",12.9721799,123.9875598
+1j99j31,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1j99j31,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1jflc9r,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1i421yh,Positive,High-Risk,canada,Canada,61.0666922,-107.991707
+1ijhze6,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1gdxiaw,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1gdxiaw,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1gdxiaw,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1imj2s1,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1ifnbai,Negative,High-Risk,mabey,"Mabey, Téra, Tillabéri, Niger",14.4450747,0.7624422
+1ifnbai,Negative,High-Risk,infront,"Drane infront of Bolika House, দৌলতখান উপজেলা, ভোলা জেলা, বরিশাল বিভাগ, 8310, বাংলাদেশ",22.59151678724403,90.67985678429226
+1jr2z6x,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1iwo1z9,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+h0bxde,Negative,High-Risk,maryland,"Maryland, United States",39.5162401,-76.9382069
+h0bxde,Negative,High-Risk,toledo,"Toledo, Castilla-La Mancha, España",39.8560679,-4.0239568
+1iavkk0,Positive,High-Risk,albeit,"Albeit Alarabi, 26, Chase Road, Park Royal, London Borough of Ealing, London, Greater London, England, NW10 6QN, United Kingdom",51.5272867,-0.259671
+1gk8k1n,Negative,High-Risk,mexico,México,23.6585116,-102.0077097
+1gw4uk7,Negative,High-Risk,imagine,"Imagine, Stary Widzew, Łódź-Widzew, Łódź, województwo łódzkie, Polska",51.7605749,19.486936634011112
+1gw4uk7,Negative,High-Risk,bhai,"Bhai, Kangra, Himachal Pradesh, 176037, India",32.0574817,76.2757158
+1fi7m3o,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1f160s7,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1jflc9r,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+q0e9qv,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1ia9maj,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1j782rr,Positive,High-Risk,canada,Canada,61.0666922,-107.991707
+1ia9maj,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1j782rr,Positive,High-Risk,canada,Canada,61.0666922,-107.991707
+1hhfj3w,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1gdxiaw,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1gdxiaw,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1gdxiaw,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1ipg32c,Negative,High-Risk,executive,"Executive, Sorsogon, Bicol Region, 4700, Pilipinas",12.9721799,123.9875598
+1jr2z6x,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1iy5ntp,Positive,High-Risk,anything,"Any Thing, 453, Rogers Avenue, Brooklyn Community District 17, Brooklyn, Kings County, City of New York, New York, 11225, United States",40.661271,-73.953386
+1iy5ntp,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1iluwuv,Positive,High-Risk,united states,United States,39.7837304,-100.445882
+1icnl1d,Negative,High-Risk,mexico,México,23.6585116,-102.0077097
+1icnl1d,Negative,High-Risk,san diego,"San Diego, San Diego County, California, United States",32.7174202,-117.162772
+1i45se0,Negative,High-Risk,agrade,"Academia Teológica da Graça de Deus, 9, Largo dos Aflitos, Dois de Julho, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 40060-030, Brasil",-12.9843941,-38.5197196
+1i45se0,Negative,High-Risk,corona,"Corona, Riverside County, California, United States",33.8752945,-117.566444
+1i45se0,Negative,High-Risk,turned,"The World Turned Upside Down, Sheffield Street, St Clement Danes, Holborn, Southwark, City of Westminster, Greater London, England, WC2A 2HT, United Kingdom",51.5144169,-0.1174048
+1ia9maj,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1ij0bcp,Negative,High-Risk,germany,Deutschland,51.1638175,10.4478313
+1ij0bcp,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1ij0bcp,Negative,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
+1i45feu,Negative,High-Risk,overview,"Overview, Cranberry Lake, Byram Township, Sussex County, New Jersey, 07821, United States",40.95260091054378,-74.7484459558185
+1jl97ys,Positive,High-Risk,ill,"Illinois, United States",40.0796606,-89.4337288
