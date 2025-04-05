@@ -2,9 +2,7 @@
 
 A comprehensive solution for extracting, analyzing, and visualizing crisis-related discussions from social media platforms. This project identifies high-risk content using sentiment analysis and NLP techniques, combined with geographic visualization to highlight regional crisis patterns.
 
-![Dashboard Overview](https://img.shields.io/badge/Dashboard-Streamlit-FF4B4B)
-![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B)](https://gsoc-crisis-monitoring-dashboard-oishika.streamlit.app/)
 
 ## 📋 Project Overview
 
@@ -144,6 +142,10 @@ python src/crisis_geolocation.py \
 ## 📱 Streamlit Dashboard Demo
 
 The project includes an interactive Streamlit dashboard that visualizes all the analysis results in a user-friendly interface.
+### Live Demo
+
+A live demonstration of the dashboard is available at:
+[https://gsoc-crisis-monitoring-dashboard-oishika.streamlit.app/](https://gsoc-crisis-monitoring-dashboard-oishika.streamlit.app/)
 
 ### Features
 - **Dashboard Overview**: Key metrics and visualizations at a glance
